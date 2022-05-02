@@ -17,4 +17,4 @@ Servo Distance Indicator is an Arduino based hardware which will detect the dist
 ![Circuit Diagram](https://github.com/TauqeerAhmad5201/Servo-distance-indicator/blob/main/images/ckt-diagram.png?raw=true)
 
 ## Working Collection 
-![Output](https://github.com/TauqeerAhmad5201/Covid-19-tracker/blob/main/images/servo-distance-indicator.jpg?raw=true)
+![Output](https://github.com/TauqeerAhmad5201/Servo-distance-indicator/blob/main/images/servo-distance-indicator.jpg?raw=true)
