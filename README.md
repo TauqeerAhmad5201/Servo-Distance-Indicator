@@ -14,4 +14,4 @@ Servo Distance Indicator is an Arduino based hardware which will detect the dist
 - Taking decision in accordance of what distance has been recorded and measured. 
 
 ## Circuit Diagram 
-![Circuit Diagram](https://github.com/TauqeerAhmad5201/Servo-distance-indicator/blob/main/ckt-diagram.png?raw=true)
+![Circuit Diagram](https://github.com/TauqeerAhmad5201/Servo-distance-indicator/blob/main/images/ckt-diagram.png?raw=true)
