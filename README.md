@@ -1,4 +1,4 @@
-<center><img src="https://svg-banners.vercel.app/api?type=luminance&text1=Servo Distance Calculator ⚙️%20&width=10000&height=12000" alt="ServoSVG"></center>
+<center><img src="https://svg-banners.vercel.app/api?type=luminance&text1=Servo Distance Calculator ⚙️%20&width=10000&height=8000" alt="ServoSVG"></center>
 # Servo Distance Indicator
 Servo Distance Indicator is an Arduino based hardware which will detect the distance of the object and displays on the analog meter.
 
